@@ -1,0 +1,6 @@
+Order ID,Date,Customer Name,Product,Category,Quantity,Unit Price,Total Sales
+1001,2023-01-01,Alice,Laptop,Electronics,1,1200,1200
+1002,2023-01-03,Bob,Smartphone,Electronics,2,800,1600
+1003,2023-01-05,Charlie,Tablet,Electronics,1,300,300
+1004,2023-01-07,David,Monitor,Electronics,2,200,400
+1005,2023-01-10,Eva,Printer,Electronics,1,150,150
