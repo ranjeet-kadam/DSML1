@@ -1,0 +1,5 @@
+lxml
+flask
+scikit-learn
+streamlit
+matplotlib

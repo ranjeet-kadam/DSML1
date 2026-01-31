@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About Us</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f0f2f5;
+      color: #333;
+      margin: 0;
+      padding: 2rem;
+    }
+
+    .about-section {
+      background-color: #fff;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .about-section h2 {
+      margin-top: 0;
+      color: #007acc;
+    }
+
+    .about-extra {
+      display: none;
+      margin-top: 1rem;
+      color: #444;
+    }
+
+    .toggle-btn {
+      background-color: #007acc;
+      color: white;
+      border: none;
+      padding: 0.6rem 1rem;
+      border-radius: 6px;
+      cursor: pointer;
+      margin-top: 1rem;
+      transition: background-color 0.3s ease;
+    }
+
+    .toggle-btn:hover {
+      background-color: #005f99;
+    }
+  </style>
+</head>
+<body>
+    <form method="post">
+
+  <div class="about-section">
+    <h2>About Us</h2>
+    <p>
+      We are a passionate team dedicated to building intuitive and scalable web applications.
+    </p>
+
+    <div class="about-extra" id="extraContent">
+      <p>
+        Founded in 2022, our mission is to help businesses thrive through technology. Our team specializes in full-stack development, UI/UX design, and cloud solutions.
+      </p>
+    </div>
+
+    <button class="toggle-btn" onclick="toggleContent()">Read More</button>
+  </div>
+
+  </form>
+
+  <script>
+    function toggleContent() {
+      const content = document.getElementById('extraContent');
+      const button = document.querySelector('.toggle-btn');
+      if (content.style.display === 'none' || content.style.display === '') {
+        content.style.display = 'block';
+        button.textContent = 'Read Less';
+      } else {
+        content.style.display = 'none';
+        button.textContent = 'Read More';
+      }
+    }
+  </script>
+
+</body>
+</html>
