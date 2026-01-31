@@ -8,3 +8,15 @@ wheels/
 
 # Virtual environments
 .venv
+venv/
+env/
+myenv/
+EnvDiff/
+Python/venv/
+
+# IDE files
+.vscode/
+
+# Logs and temp files
+*.log
+pull_error.txt
