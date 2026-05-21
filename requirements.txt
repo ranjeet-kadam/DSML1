@@ -13,3 +13,4 @@ matplotlib
 streamlit
 ipykernel
 setuptools
+scikeras

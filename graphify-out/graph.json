@@ -1,0 +1,1498 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "main.py",
+      "source_location": "L1",
+      "id": "main_py",
+      "community": 14,
+      "norm_label": "main.py"
+    },
+    {
+      "label": "main()",
+      "file_type": "code",
+      "source_file": "main.py",
+      "source_location": "L1",
+      "id": "krish_naik_main_main",
+      "community": 14,
+      "norm_label": "main()"
+    },
+    {
+      "label": "settings.json",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L1",
+      "id": "vscode_settings_json",
+      "community": 20,
+      "norm_label": "settings.json"
+    },
+    {
+      "label": "python.analysis.extraPaths",
+      "file_type": "code",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L2",
+      "id": "vscode_settings_python_analysis_extrapaths",
+      "community": 20,
+      "norm_label": "python.analysis.extrapaths"
+    },
+    {
+      "label": "Activate.ps1",
+      "file_type": "code",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L1",
+      "id": "envdiff_myenv_scripts_activate_ps1",
+      "community": 6,
+      "norm_label": "activate.ps1"
+    },
+    {
+      "label": "global:deactivate()",
+      "file_type": "code",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L73",
+      "id": "scripts_activate_global_deactivate",
+      "community": 6,
+      "norm_label": "global:deactivate()"
+    },
+    {
+      "label": "Get-PyVenvConfig()",
+      "file_type": "code",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L131",
+      "id": "scripts_activate_get_pyvenvconfig",
+      "community": 6,
+      "norm_label": "get-pyvenvconfig()"
+    },
+    {
+      "label": "global:_OLD_VIRTUAL_PROMPT()",
+      "file_type": "code",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L228",
+      "id": "scripts_activate_global_old_virtual_prompt",
+      "community": 6,
+      "norm_label": "global:_old_virtual_prompt()"
+    },
+    {
+      "label": "global:prompt()",
+      "file_type": "code",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L232",
+      "id": "scripts_activate_global_prompt",
+      "community": 6,
+      "norm_label": "global:prompt()"
+    },
+    {
+      "label": "Dubagger.py",
+      "file_type": "code",
+      "source_file": "Python/Dubagger.py",
+      "source_location": "L1",
+      "id": "python_dubagger_py",
+      "community": 16,
+      "norm_label": "dubagger.py"
+    },
+    {
+      "label": "fibonacci_series()",
+      "file_type": "code",
+      "source_file": "Python/Dubagger.py",
+      "source_location": "L8",
+      "id": "python_dubagger_fibonacci_series",
+      "community": 16,
+      "norm_label": "fibonacci_series()"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "Python/Deep Learning/ANN Project/app.py",
+      "source_location": "L1",
+      "id": "python_deep_learning_ann_project_app_py",
+      "community": 21,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "Python/Deep Learning/annclassification/app.py",
+      "source_location": "L1",
+      "id": "python_deep_learning_annclassification_app_py",
+      "community": 22,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "streamlit_regression.py",
+      "file_type": "code",
+      "source_file": "Python/Deep Learning/Regression/streamlit_regression.py",
+      "source_location": "L1",
+      "id": "python_deep_learning_regression_streamlit_regression_py",
+      "community": 23,
+      "norm_label": "streamlit_regression.py"
+    },
+    {
+      "label": "api.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_api_py",
+      "community": 3,
+      "norm_label": "api.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L14",
+      "id": "flask_api_home",
+      "community": 3,
+      "norm_label": "home()"
+    },
+    {
+      "label": "get_items()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L20",
+      "id": "flask_api_get_items",
+      "community": 3,
+      "norm_label": "get_items()"
+    },
+    {
+      "label": "get_item()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L26",
+      "id": "flask_api_get_item",
+      "community": 3,
+      "norm_label": "get_item()"
+    },
+    {
+      "label": "create_item()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L35",
+      "id": "flask_api_create_item",
+      "community": 3,
+      "norm_label": "create_item()"
+    },
+    {
+      "label": "update_item()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L52",
+      "id": "flask_api_update_item",
+      "community": 3,
+      "norm_label": "update_item()"
+    },
+    {
+      "label": "delete_item()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L63",
+      "id": "flask_api_delete_item",
+      "community": 3,
+      "norm_label": "delete_item()"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_app_py",
+      "community": 7,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L6",
+      "id": "flask_app_home",
+      "community": 7,
+      "norm_label": "home()"
+    },
+    {
+      "label": "index()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L10",
+      "id": "flask_app_index",
+      "community": 7,
+      "norm_label": "index()"
+    },
+    {
+      "label": "about()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L14",
+      "id": "flask_app_about",
+      "community": 7,
+      "norm_label": "about()"
+    },
+    {
+      "label": "getpost.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_getpost_py",
+      "community": 4,
+      "norm_label": "getpost.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L6",
+      "id": "flask_getpost_home",
+      "community": 4,
+      "norm_label": "home()"
+    },
+    {
+      "label": "index()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L10",
+      "id": "flask_getpost_index",
+      "community": 4,
+      "norm_label": "index()"
+    },
+    {
+      "label": "form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L14",
+      "id": "flask_getpost_form",
+      "community": 4,
+      "norm_label": "form()"
+    },
+    {
+      "label": "submit_form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L21",
+      "id": "flask_getpost_submit_form",
+      "community": 4,
+      "norm_label": "submit_form()"
+    },
+    {
+      "label": "about()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L29",
+      "id": "flask_getpost_about",
+      "community": 4,
+      "norm_label": "about()"
+    },
+    {
+      "label": "jin1.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_jin1_py",
+      "community": 0,
+      "norm_label": "jin1.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L6",
+      "id": "flask_jin1_home",
+      "community": 0,
+      "norm_label": "home()"
+    },
+    {
+      "label": "index()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L10",
+      "id": "flask_jin1_index",
+      "community": 0,
+      "norm_label": "index()"
+    },
+    {
+      "label": "form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L14",
+      "id": "flask_jin1_form",
+      "community": 0,
+      "norm_label": "form()"
+    },
+    {
+      "label": "submit_form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L21",
+      "id": "flask_jin1_submit_form",
+      "community": 0,
+      "norm_label": "submit_form()"
+    },
+    {
+      "label": "success()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L30",
+      "id": "flask_jin1_success",
+      "community": 0,
+      "norm_label": "success()"
+    },
+    {
+      "label": "successres()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L35",
+      "id": "flask_jin1_successres",
+      "community": 0,
+      "norm_label": "successres()"
+    },
+    {
+      "label": "about()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L41",
+      "id": "flask_jin1_about",
+      "community": 0,
+      "norm_label": "about()"
+    },
+    {
+      "label": "fail()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L45",
+      "id": "flask_jin1_fail",
+      "community": 0,
+      "norm_label": "fail()"
+    },
+    {
+      "label": "submit()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L49",
+      "id": "flask_jin1_submit",
+      "community": 0,
+      "norm_label": "submit()"
+    },
+    {
+      "label": "Jin12.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_jin12_py",
+      "community": 1,
+      "norm_label": "jin12.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L6",
+      "id": "flask_jin12_home",
+      "community": 1,
+      "norm_label": "home()"
+    },
+    {
+      "label": "index()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L10",
+      "id": "flask_jin12_index",
+      "community": 1,
+      "norm_label": "index()"
+    },
+    {
+      "label": "form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L14",
+      "id": "flask_jin12_form",
+      "community": 1,
+      "norm_label": "form()"
+    },
+    {
+      "label": "submit_form()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L21",
+      "id": "flask_jin12_submit_form",
+      "community": 1,
+      "norm_label": "submit_form()"
+    },
+    {
+      "label": "success()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L30",
+      "id": "flask_jin12_success",
+      "community": 1,
+      "norm_label": "success()"
+    },
+    {
+      "label": "successres()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L40",
+      "id": "flask_jin12_successres",
+      "community": 1,
+      "norm_label": "successres()"
+    },
+    {
+      "label": "about()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L51",
+      "id": "flask_jin12_about",
+      "community": 1,
+      "norm_label": "about()"
+    },
+    {
+      "label": "fail()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L55",
+      "id": "flask_jin12_fail",
+      "community": 1,
+      "norm_label": "fail()"
+    },
+    {
+      "label": "submit()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L59",
+      "id": "flask_jin12_submit",
+      "community": 1,
+      "norm_label": "submit()"
+    },
+    {
+      "label": "main.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/main.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_main_py",
+      "community": 8,
+      "norm_label": "main.py"
+    },
+    {
+      "label": "home()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/main.py",
+      "source_location": "L6",
+      "id": "flask_main_home",
+      "community": 8,
+      "norm_label": "home()"
+    },
+    {
+      "label": "index()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/main.py",
+      "source_location": "L10",
+      "id": "flask_main_index",
+      "community": 8,
+      "norm_label": "index()"
+    },
+    {
+      "label": "new.py",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/new.py",
+      "source_location": "L1",
+      "id": "python_flask_flask_new_py",
+      "community": 12,
+      "norm_label": "new.py"
+    },
+    {
+      "label": "welcome()",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/new.py",
+      "source_location": "L6",
+      "id": "flask_new_welcome",
+      "community": 12,
+      "norm_label": "welcome()"
+    },
+    {
+      "label": "sample.json",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/sample.json",
+      "source_location": "L1",
+      "id": "python_flask_flask_sample_json",
+      "community": 9,
+      "norm_label": "sample.json"
+    },
+    {
+      "label": "name",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/sample.json",
+      "source_location": "L1",
+      "id": "flask_sample_name",
+      "community": 9,
+      "norm_label": "name"
+    },
+    {
+      "label": "description",
+      "file_type": "code",
+      "source_file": "Python/Flask/flask/sample.json",
+      "source_location": "L1",
+      "id": "flask_sample_description",
+      "community": 9,
+      "norm_label": "description"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L1",
+      "id": "python_logging_app_py",
+      "community": 5,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "add()",
+      "file_type": "code",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L15",
+      "id": "logging_app_add",
+      "community": 5,
+      "norm_label": "add()"
+    },
+    {
+      "label": "subtract()",
+      "file_type": "code",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L20",
+      "id": "logging_app_subtract",
+      "community": 5,
+      "norm_label": "subtract()"
+    },
+    {
+      "label": "multiply()",
+      "file_type": "code",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L25",
+      "id": "logging_app_multiply",
+      "community": 5,
+      "norm_label": "multiply()"
+    },
+    {
+      "label": "division()",
+      "file_type": "code",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L30",
+      "id": "logging_app_division",
+      "community": 5,
+      "norm_label": "division()"
+    },
+    {
+      "label": "my_logger.py",
+      "file_type": "code",
+      "source_file": "Python/Logging/logs/my_logger.py",
+      "source_location": "L1",
+      "id": "python_logging_logs_my_logger_py",
+      "community": 24,
+      "norm_label": "my_logger.py"
+    },
+    {
+      "label": "test.py",
+      "file_type": "code",
+      "source_file": "Python/Logging/logs/test.py",
+      "source_location": "L1",
+      "id": "python_logging_logs_test_py",
+      "community": 13,
+      "norm_label": "test.py"
+    },
+    {
+      "label": "add()",
+      "file_type": "code",
+      "source_file": "Python/Logging/logs/test.py",
+      "source_location": "L14",
+      "id": "logs_test_add",
+      "community": 13,
+      "norm_label": "add()"
+    },
+    {
+      "label": "adv_multi_processing.py",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_processing.py",
+      "source_location": "L1",
+      "id": "python_multithreading_multiprocessing_adv_multi_processing_py",
+      "community": 17,
+      "norm_label": "adv_multi_processing.py"
+    },
+    {
+      "label": "square()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_processing.py",
+      "source_location": "L6",
+      "id": "multithreading_multiprocessing_adv_multi_processing_square",
+      "community": 17,
+      "norm_label": "square()"
+    },
+    {
+      "label": "adv_multi_threading.py",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_threading.py",
+      "source_location": "L1",
+      "id": "python_multithreading_multiprocessing_adv_multi_threading_py",
+      "community": 15,
+      "norm_label": "adv_multi_threading.py"
+    },
+    {
+      "label": "num()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_threading.py",
+      "source_location": "L4",
+      "id": "multithreading_multiprocessing_adv_multi_threading_num",
+      "community": 15,
+      "norm_label": "num()"
+    },
+    {
+      "label": "factorial.py",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/factorial.py",
+      "source_location": "L1",
+      "id": "python_multithreading_multiprocessing_factorial_py",
+      "community": 18,
+      "norm_label": "factorial.py"
+    },
+    {
+      "label": "count_fact()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/factorial.py",
+      "source_location": "L8",
+      "id": "multithreading_multiprocessing_factorial_count_fact",
+      "community": 18,
+      "norm_label": "count_fact()"
+    },
+    {
+      "label": "multithreading.py",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/multithreading.py",
+      "source_location": "L1",
+      "id": "python_multithreading_multiprocessing_multithreading_py",
+      "community": 10,
+      "norm_label": "multithreading.py"
+    },
+    {
+      "label": "print_num()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/multithreading.py",
+      "source_location": "L4",
+      "id": "multithreading_multiprocessing_multithreading_print_num",
+      "community": 10,
+      "norm_label": "print_num()"
+    },
+    {
+      "label": "print_letter()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/multithreading.py",
+      "source_location": "L9",
+      "id": "multithreading_multiprocessing_multithreading_print_letter",
+      "community": 10,
+      "norm_label": "print_letter()"
+    },
+    {
+      "label": "process_test.py",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/process_test.py",
+      "source_location": "L1",
+      "id": "python_multithreading_multiprocessing_process_test_py",
+      "community": 11,
+      "norm_label": "process_test.py"
+    },
+    {
+      "label": "square_num()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/process_test.py",
+      "source_location": "L4",
+      "id": "multithreading_multiprocessing_process_test_square_num",
+      "community": 11,
+      "norm_label": "square_num()"
+    },
+    {
+      "label": "cube_num()",
+      "file_type": "code",
+      "source_file": "Python/Multithreading & Multiprocessing/process_test.py",
+      "source_location": "L9",
+      "id": "multithreading_multiprocessing_process_test_cube_num",
+      "community": 11,
+      "norm_label": "cube_num()"
+    },
+    {
+      "label": "math.py",
+      "file_type": "code",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L1",
+      "id": "python_packages_math_py",
+      "community": 2,
+      "norm_label": "math.py"
+    },
+    {
+      "label": "add()",
+      "file_type": "code",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L1",
+      "id": "packages_math_add",
+      "community": 2,
+      "norm_label": "add()"
+    },
+    {
+      "label": "subtract()",
+      "file_type": "code",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L5",
+      "id": "packages_math_subtract",
+      "community": 2,
+      "norm_label": "subtract()"
+    },
+    {
+      "label": "multiply()",
+      "file_type": "code",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L9",
+      "id": "packages_math_multiply",
+      "community": 2,
+      "norm_label": "multiply()"
+    },
+    {
+      "label": "divide()",
+      "file_type": "code",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L13",
+      "id": "packages_math_divide",
+      "community": 2,
+      "norm_label": "divide()"
+    },
+    {
+      "label": "Return the sum of two numbers.",
+      "file_type": "rationale",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L2",
+      "id": "packages_math_rationale_2",
+      "community": 2,
+      "norm_label": "return the sum of two numbers."
+    },
+    {
+      "label": "Return the difference of two numbers.",
+      "file_type": "rationale",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L6",
+      "id": "packages_math_rationale_6",
+      "community": 2,
+      "norm_label": "return the difference of two numbers."
+    },
+    {
+      "label": "Return the product of two numbers.",
+      "file_type": "rationale",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L10",
+      "id": "packages_math_rationale_10",
+      "community": 2,
+      "norm_label": "return the product of two numbers."
+    },
+    {
+      "label": "Return the quotient of two numbers. Raises ValueError if dividing by zero.",
+      "file_type": "rationale",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L14",
+      "id": "packages_math_rationale_14",
+      "community": 2,
+      "norm_label": "return the quotient of two numbers. raises valueerror if dividing by zero."
+    },
+    {
+      "label": "__init__.py",
+      "file_type": "code",
+      "source_file": "Python/packages/__init__.py",
+      "source_location": "L1",
+      "id": "python_packages_init_py",
+      "community": 25,
+      "norm_label": "__init__.py"
+    },
+    {
+      "label": "app.py",
+      "file_type": "code",
+      "source_file": "Python/Streamlit/app.py",
+      "source_location": "L1",
+      "id": "python_streamlit_app_py",
+      "community": 26,
+      "norm_label": "app.py"
+    },
+    {
+      "label": "classification.py",
+      "file_type": "code",
+      "source_file": "Python/Streamlit/classification.py",
+      "source_location": "L1",
+      "id": "python_streamlit_classification_py",
+      "community": 19,
+      "norm_label": "classification.py"
+    },
+    {
+      "label": "load_data()",
+      "file_type": "code",
+      "source_file": "Python/Streamlit/classification.py",
+      "source_location": "L7",
+      "id": "streamlit_classification_load_data",
+      "community": 19,
+      "norm_label": "load_data()"
+    },
+    {
+      "label": "widgets.py",
+      "file_type": "code",
+      "source_file": "Python/Streamlit/widgets.py",
+      "source_location": "L1",
+      "id": "python_streamlit_widgets_py",
+      "community": 27,
+      "norm_label": "widgets.py"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "main.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "main_py",
+      "target": "krish_naik_main_main",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": ".vscode/settings.json",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "vscode_settings_json",
+      "target": "vscode_settings_python_analysis_extrapaths",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L73",
+      "weight": 1.0,
+      "source": "envdiff_myenv_scripts_activate_ps1",
+      "target": "scripts_activate_global_deactivate",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L131",
+      "weight": 1.0,
+      "source": "envdiff_myenv_scripts_activate_ps1",
+      "target": "scripts_activate_get_pyvenvconfig",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L228",
+      "weight": 1.0,
+      "source": "envdiff_myenv_scripts_activate_ps1",
+      "target": "scripts_activate_global_old_virtual_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "EnvDiff/myenv/Scripts/Activate.ps1",
+      "source_location": "L232",
+      "weight": 1.0,
+      "source": "envdiff_myenv_scripts_activate_ps1",
+      "target": "scripts_activate_global_prompt",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Dubagger.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "python_dubagger_py",
+      "target": "python_dubagger_fibonacci_series",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_get_items",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L26",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_get_item",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_create_item",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L52",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_update_item",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/api.py",
+      "source_location": "L63",
+      "weight": 1.0,
+      "source": "python_flask_flask_api_py",
+      "target": "flask_api_delete_item",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_app_py",
+      "target": "flask_app_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "python_flask_flask_app_py",
+      "target": "flask_app_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/app.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_flask_flask_app_py",
+      "target": "flask_app_about",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_getpost_py",
+      "target": "flask_getpost_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "python_flask_flask_getpost_py",
+      "target": "flask_getpost_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_flask_flask_getpost_py",
+      "target": "flask_getpost_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "python_flask_flask_getpost_py",
+      "target": "flask_getpost_submit_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/getpost.py",
+      "source_location": "L29",
+      "weight": 1.0,
+      "source": "python_flask_flask_getpost_py",
+      "target": "flask_getpost_about",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_submit_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_success",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L35",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_successres",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L41",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_about",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L45",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_fail",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/jin1.py",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin1_py",
+      "target": "flask_jin1_submit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_submit_form",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_success",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_successres",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L51",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_about",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L55",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_fail",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/Jin12.py",
+      "source_location": "L59",
+      "weight": 1.0,
+      "source": "python_flask_flask_jin12_py",
+      "target": "flask_jin12_submit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/main.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_main_py",
+      "target": "flask_main_home",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/main.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "python_flask_flask_main_py",
+      "target": "flask_main_index",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/new.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_flask_flask_new_py",
+      "target": "flask_new_welcome",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/sample.json",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "python_flask_flask_sample_json",
+      "target": "flask_sample_name",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Flask/flask/sample.json",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "python_flask_flask_sample_json",
+      "target": "flask_sample_description",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "python_logging_app_py",
+      "target": "logging_app_add",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "source": "python_logging_app_py",
+      "target": "logging_app_subtract",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "python_logging_app_py",
+      "target": "logging_app_multiply",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Logging/app.py",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "python_logging_app_py",
+      "target": "logging_app_division",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Logging/logs/test.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "python_logging_logs_test_py",
+      "target": "logs_test_add",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_processing.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_adv_multi_processing_py",
+      "target": "multithreading_multiprocessing_adv_multi_processing_square",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/adv_multi_threading.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_adv_multi_threading_py",
+      "target": "multithreading_multiprocessing_adv_multi_threading_num",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/factorial.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_factorial_py",
+      "target": "multithreading_multiprocessing_factorial_count_fact",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/multithreading.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_multithreading_py",
+      "target": "multithreading_multiprocessing_multithreading_print_num",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/multithreading.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_multithreading_py",
+      "target": "multithreading_multiprocessing_multithreading_print_letter",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/process_test.py",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_process_test_py",
+      "target": "multithreading_multiprocessing_process_test_square_num",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Multithreading & Multiprocessing/process_test.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "python_multithreading_multiprocessing_process_test_py",
+      "target": "multithreading_multiprocessing_process_test_cube_num",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L1",
+      "weight": 1.0,
+      "source": "python_packages_math_py",
+      "target": "packages_math_add",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "source": "python_packages_math_py",
+      "target": "packages_math_subtract",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "python_packages_math_py",
+      "target": "packages_math_multiply",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "python_packages_math_py",
+      "target": "packages_math_divide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "packages_math_rationale_2",
+      "target": "packages_math_add",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "packages_math_rationale_6",
+      "target": "packages_math_subtract",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "packages_math_rationale_10",
+      "target": "packages_math_multiply",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/packages/math.py",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "packages_math_rationale_14",
+      "target": "packages_math_divide",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "Python/Streamlit/classification.py",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "python_streamlit_classification_py",
+      "target": "streamlit_classification_load_data",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": [],
+  "built_at_commit": "61549d849b7b4fbbb2a4b7cf00ba7a205ea2332d"
+}

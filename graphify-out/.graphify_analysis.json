@@ -1,0 +1,235 @@
+{
+  "communities": {
+    "0": [
+      "flask_jin1_about",
+      "flask_jin1_fail",
+      "flask_jin1_form",
+      "flask_jin1_home",
+      "flask_jin1_index",
+      "flask_jin1_submit",
+      "flask_jin1_submit_form",
+      "flask_jin1_success",
+      "flask_jin1_successres",
+      "python_flask_flask_jin1_py"
+    ],
+    "1": [
+      "flask_jin12_about",
+      "flask_jin12_fail",
+      "flask_jin12_form",
+      "flask_jin12_home",
+      "flask_jin12_index",
+      "flask_jin12_submit",
+      "flask_jin12_submit_form",
+      "flask_jin12_success",
+      "flask_jin12_successres",
+      "python_flask_flask_jin12_py"
+    ],
+    "2": [
+      "packages_math_add",
+      "packages_math_divide",
+      "packages_math_multiply",
+      "packages_math_rationale_10",
+      "packages_math_rationale_14",
+      "packages_math_rationale_2",
+      "packages_math_rationale_6",
+      "packages_math_subtract",
+      "python_packages_math_py"
+    ],
+    "3": [
+      "flask_api_create_item",
+      "flask_api_delete_item",
+      "flask_api_get_item",
+      "flask_api_get_items",
+      "flask_api_home",
+      "flask_api_update_item",
+      "python_flask_flask_api_py"
+    ],
+    "4": [
+      "flask_getpost_about",
+      "flask_getpost_form",
+      "flask_getpost_home",
+      "flask_getpost_index",
+      "flask_getpost_submit_form",
+      "python_flask_flask_getpost_py"
+    ],
+    "5": [
+      "logging_app_add",
+      "logging_app_division",
+      "logging_app_multiply",
+      "logging_app_subtract",
+      "python_logging_app_py"
+    ],
+    "6": [
+      "envdiff_myenv_scripts_activate_ps1",
+      "scripts_activate_get_pyvenvconfig",
+      "scripts_activate_global_deactivate",
+      "scripts_activate_global_old_virtual_prompt",
+      "scripts_activate_global_prompt"
+    ],
+    "7": [
+      "flask_app_about",
+      "flask_app_home",
+      "flask_app_index",
+      "python_flask_flask_app_py"
+    ],
+    "8": [
+      "flask_main_home",
+      "flask_main_index",
+      "python_flask_flask_main_py"
+    ],
+    "9": [
+      "flask_sample_description",
+      "flask_sample_name",
+      "python_flask_flask_sample_json"
+    ],
+    "10": [
+      "multithreading_multiprocessing_multithreading_print_letter",
+      "multithreading_multiprocessing_multithreading_print_num",
+      "python_multithreading_multiprocessing_multithreading_py"
+    ],
+    "11": [
+      "multithreading_multiprocessing_process_test_cube_num",
+      "multithreading_multiprocessing_process_test_square_num",
+      "python_multithreading_multiprocessing_process_test_py"
+    ],
+    "12": [
+      "flask_new_welcome",
+      "python_flask_flask_new_py"
+    ],
+    "13": [
+      "logs_test_add",
+      "python_logging_logs_test_py"
+    ],
+    "14": [
+      "krish_naik_main_main",
+      "main_py"
+    ],
+    "15": [
+      "multithreading_multiprocessing_adv_multi_threading_num",
+      "python_multithreading_multiprocessing_adv_multi_threading_py"
+    ],
+    "16": [
+      "python_dubagger_fibonacci_series",
+      "python_dubagger_py"
+    ],
+    "17": [
+      "multithreading_multiprocessing_adv_multi_processing_square",
+      "python_multithreading_multiprocessing_adv_multi_processing_py"
+    ],
+    "18": [
+      "multithreading_multiprocessing_factorial_count_fact",
+      "python_multithreading_multiprocessing_factorial_py"
+    ],
+    "19": [
+      "python_streamlit_classification_py",
+      "streamlit_classification_load_data"
+    ],
+    "20": [
+      "vscode_settings_json",
+      "vscode_settings_python_analysis_extrapaths"
+    ],
+    "21": [
+      "python_deep_learning_ann_project_app_py"
+    ],
+    "22": [
+      "python_deep_learning_annclassification_app_py"
+    ],
+    "23": [
+      "python_deep_learning_regression_streamlit_regression_py"
+    ],
+    "24": [
+      "python_logging_logs_my_logger_py"
+    ],
+    "25": [
+      "python_packages_init_py"
+    ],
+    "26": [
+      "python_streamlit_app_py"
+    ],
+    "27": [
+      "python_streamlit_widgets_py"
+    ]
+  },
+  "cohesion": {
+    "0": 0.2,
+    "1": 0.2,
+    "2": 0.2222222222222222,
+    "3": 0.2857142857142857,
+    "4": 0.3333333333333333,
+    "5": 0.4,
+    "6": 0.4,
+    "7": 0.5,
+    "8": 0.6666666666666666,
+    "9": 0.6666666666666666,
+    "10": 0.6666666666666666,
+    "11": 0.6666666666666666,
+    "12": 1.0,
+    "13": 1.0,
+    "14": 1.0,
+    "15": 1.0,
+    "16": 1.0,
+    "17": 1.0,
+    "18": 1.0,
+    "19": 1.0,
+    "20": 1.0,
+    "21": 1.0,
+    "22": 1.0,
+    "23": 1.0,
+    "24": 1.0,
+    "25": 1.0,
+    "26": 1.0,
+    "27": 1.0
+  },
+  "gods": [
+    {
+      "id": "packages_math_add",
+      "label": "add()",
+      "degree": 2
+    },
+    {
+      "id": "packages_math_subtract",
+      "label": "subtract()",
+      "degree": 2
+    },
+    {
+      "id": "packages_math_multiply",
+      "label": "multiply()",
+      "degree": 2
+    },
+    {
+      "id": "packages_math_divide",
+      "label": "divide()",
+      "degree": 2
+    },
+    {
+      "id": "vscode_settings_python_analysis_extrapaths",
+      "label": "python.analysis.extraPaths",
+      "degree": 1
+    },
+    {
+      "id": "packages_math_rationale_2",
+      "label": "Return the sum of two numbers.",
+      "degree": 1
+    },
+    {
+      "id": "packages_math_rationale_6",
+      "label": "Return the difference of two numbers.",
+      "degree": 1
+    },
+    {
+      "id": "packages_math_rationale_10",
+      "label": "Return the product of two numbers.",
+      "degree": 1
+    },
+    {
+      "id": "packages_math_rationale_14",
+      "label": "Return the quotient of two numbers. Raises ValueError if dividing by zero.",
+      "degree": 1
+    }
+  ],
+  "surprises": [],
+  "tokens": {
+    "input": 0,
+    "output": 0
+  }
+}

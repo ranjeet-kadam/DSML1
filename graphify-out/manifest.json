@@ -1,0 +1,142 @@
+{
+  "D:\\Krish_Naik\\main.py": {
+    "mtime": 1772970830.4556403,
+    "ast_hash": "0f709378a0f2c6ce21541dc84d915b66",
+    "semantic_hash": "0f709378a0f2c6ce21541dc84d915b66"
+  },
+  "D:\\Krish_Naik\\.vscode\\settings.json": {
+    "mtime": 1772970824.345722,
+    "ast_hash": "53ff2027ef6c0effd64d1229c49f51ed",
+    "semantic_hash": "53ff2027ef6c0effd64d1229c49f51ed"
+  },
+  "D:\\Krish_Naik\\EnvDiff\\myenv\\Scripts\\Activate.ps1": {
+    "mtime": 1750485824.6083236,
+    "ast_hash": "ffb074b8336789578f50a6c1a1632342",
+    "semantic_hash": "ffb074b8336789578f50a6c1a1632342"
+  },
+  "D:\\Krish_Naik\\Python\\Dubagger.py": {
+    "mtime": 1750486467.5068133,
+    "ast_hash": "0152cb09e222c621338920ca25025b57",
+    "semantic_hash": "0152cb09e222c621338920ca25025b57"
+  },
+  "D:\\Krish_Naik\\Python\\Deep Learning\\ANN Project\\app.py": {
+    "mtime": 1776886837.7766335,
+    "ast_hash": "8b31307c1eed50f30330488e4cccde0c",
+    "semantic_hash": "8b31307c1eed50f30330488e4cccde0c"
+  },
+  "D:\\Krish_Naik\\Python\\Deep Learning\\annclassification\\app.py": {
+    "mtime": 1776604785.553818,
+    "ast_hash": "1eb0d5f442a5ae28bc7d52244c8f8c8e",
+    "semantic_hash": "1eb0d5f442a5ae28bc7d52244c8f8c8e"
+  },
+  "D:\\Krish_Naik\\Python\\Deep Learning\\Regression\\streamlit_regression.py": {
+    "mtime": 1777023263.638152,
+    "ast_hash": "a44beeaa9e11efa17658cef5619ad535",
+    "semantic_hash": "a44beeaa9e11efa17658cef5619ad535"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\api.py": {
+    "mtime": 1750486467.5127907,
+    "ast_hash": "0e8f00534007555a420840424b5c1a8d",
+    "semantic_hash": "0e8f00534007555a420840424b5c1a8d"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\app.py": {
+    "mtime": 1750486467.5127907,
+    "ast_hash": "43c0df720180862157b86f369360618c",
+    "semantic_hash": "43c0df720180862157b86f369360618c"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\getpost.py": {
+    "mtime": 1750486467.5127907,
+    "ast_hash": "600f26d1c3578f5a6bced9b7be6ff2c5",
+    "semantic_hash": "600f26d1c3578f5a6bced9b7be6ff2c5"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\jin1.py": {
+    "mtime": 1750486467.5137908,
+    "ast_hash": "c0981321fc07a382aac0f8e5b3604a89",
+    "semantic_hash": "c0981321fc07a382aac0f8e5b3604a89"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\Jin12.py": {
+    "mtime": 1750486467.5127907,
+    "ast_hash": "6e6806a4f9d9c47f9aa1538c5bce1577",
+    "semantic_hash": "6e6806a4f9d9c47f9aa1538c5bce1577"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\main.py": {
+    "mtime": 1750486467.5137908,
+    "ast_hash": "590daa78e65736bbfc43494c2fa4e4c9",
+    "semantic_hash": "590daa78e65736bbfc43494c2fa4e4c9"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\new.py": {
+    "mtime": 1750486467.5137908,
+    "ast_hash": "e123c9b5864058fe1d44afc6d36f3d69",
+    "semantic_hash": "e123c9b5864058fe1d44afc6d36f3d69"
+  },
+  "D:\\Krish_Naik\\Python\\Flask\\flask\\sample.json": {
+    "mtime": 1750486467.5137908,
+    "ast_hash": "1f512e7607db9e0428b5123a17990273",
+    "semantic_hash": "1f512e7607db9e0428b5123a17990273"
+  },
+  "D:\\Krish_Naik\\Python\\Logging\\app.py": {
+    "mtime": 1750486467.5167909,
+    "ast_hash": "104d522c4ab53de2caff50f5e378972a",
+    "semantic_hash": "104d522c4ab53de2caff50f5e378972a"
+  },
+  "D:\\Krish_Naik\\Python\\Logging\\logs\\my_logger.py": {
+    "mtime": 1750486467.5179844,
+    "ast_hash": "83c1ab7369c7310cb7b758916222c3c3",
+    "semantic_hash": "83c1ab7369c7310cb7b758916222c3c3"
+  },
+  "D:\\Krish_Naik\\Python\\Logging\\logs\\test.py": {
+    "mtime": 1750486467.5179844,
+    "ast_hash": "6900439f893be987da9cb669b6befb57",
+    "semantic_hash": "6900439f893be987da9cb669b6befb57"
+  },
+  "D:\\Krish_Naik\\Python\\Multithreading & Multiprocessing\\adv_multi_processing.py": {
+    "mtime": 1750486467.518986,
+    "ast_hash": "287d0a97b4911dbe9a51ec288e5cb43e",
+    "semantic_hash": "287d0a97b4911dbe9a51ec288e5cb43e"
+  },
+  "D:\\Krish_Naik\\Python\\Multithreading & Multiprocessing\\adv_multi_threading.py": {
+    "mtime": 1750486467.518986,
+    "ast_hash": "849257af81d2e77777911bea4a303009",
+    "semantic_hash": "849257af81d2e77777911bea4a303009"
+  },
+  "D:\\Krish_Naik\\Python\\Multithreading & Multiprocessing\\factorial.py": {
+    "mtime": 1750486467.518986,
+    "ast_hash": "9646afd53710d617ab13397bdea216cb",
+    "semantic_hash": "9646afd53710d617ab13397bdea216cb"
+  },
+  "D:\\Krish_Naik\\Python\\Multithreading & Multiprocessing\\multithreading.py": {
+    "mtime": 1750486467.518986,
+    "ast_hash": "34b2957cfc9d59bad57674c688ad5333",
+    "semantic_hash": "34b2957cfc9d59bad57674c688ad5333"
+  },
+  "D:\\Krish_Naik\\Python\\Multithreading & Multiprocessing\\process_test.py": {
+    "mtime": 1750486467.518986,
+    "ast_hash": "709dbcda155e76240612bc305a14bdbf",
+    "semantic_hash": "709dbcda155e76240612bc305a14bdbf"
+  },
+  "D:\\Krish_Naik\\Python\\packages\\math.py": {
+    "mtime": 1750486467.522986,
+    "ast_hash": "0b6422ed85c6fb672d73871a2a69602f",
+    "semantic_hash": "0b6422ed85c6fb672d73871a2a69602f"
+  },
+  "D:\\Krish_Naik\\Python\\packages\\__init__.py": {
+    "mtime": 1750486467.522986,
+    "ast_hash": "b72f55e26f7d581649bcab3433bf8c07",
+    "semantic_hash": "b72f55e26f7d581649bcab3433bf8c07"
+  },
+  "D:\\Krish_Naik\\Python\\Streamlit\\app.py": {
+    "mtime": 1750486467.5209854,
+    "ast_hash": "5f3022e31872de8edd402149a4287f8b",
+    "semantic_hash": "5f3022e31872de8edd402149a4287f8b"
+  },
+  "D:\\Krish_Naik\\Python\\Streamlit\\classification.py": {
+    "mtime": 1750486467.5209854,
+    "ast_hash": "5dff38dfe51f2eeda6751c92fb405ec9",
+    "semantic_hash": "5dff38dfe51f2eeda6751c92fb405ec9"
+  },
+  "D:\\Krish_Naik\\Python\\Streamlit\\widgets.py": {
+    "mtime": 1750486467.5209854,
+    "ast_hash": "0389bfc4000e48f78eff7667fecb2c72",
+    "semantic_hash": "0389bfc4000e48f78eff7667fecb2c72"
+  }
+}
